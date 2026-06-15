@@ -3,7 +3,7 @@
 This skill contains a comprehensive specification and reference library for communicating with Chomikuj.pl. The documentation outlines the service's unofficial SOAP API (modeled after the official ChomikBox desktop application protocol) as well as HTTP/web-scraping methods used when SOAP endpoints are unavailable (such as deleting files or performing web-based searches).
 
 ## SKILL Language Versions
-[EN](blob/branch/SKILL/EN/SKILL.md) | [PL](blob/branch/SKILL/PL/SKILL.md)
+[EN](blob/main/SKILL/EN/SKILL.md) | [PL](blob/main/SKILL/PL/SKILL.md)
 
 ## Table of Contents
 ```
